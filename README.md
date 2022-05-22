@@ -11,4 +11,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdreamcoffee&count_bg=%237F7FD5&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
 
+<p align=center>
+  <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/INTELLIJ-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
+
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5)

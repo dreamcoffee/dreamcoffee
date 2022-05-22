@@ -1,8 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20DreamCoffee%20%20&height=200&fontSize=90&fontColor=ffffff)
 
-<div align=center>
-  KNU 21 정주원
-</div>
+# 소개
+- 안녕하세요 KNU 21 정주원입니다.
+
+# 목표
+- 백엔드, 프론트 엔드 중 저에게 맞는 길을 찾기 위해 열심히 공부하고 있습니다.
+
 
 <div align=center>
   <img style="height:200px;width:450px" src="https://github-profile-trophy.vercel.app/?username=dreamcoffee&margin-w=3&row=2&column=4">

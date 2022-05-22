@@ -17,5 +17,6 @@
 <p>
 <p align=center>
   <img src="https://img.shields.io/badge/C++-E34F26?style=flat&logo=C++&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VISUALSTUDIO-F80000?style=flat&logo=VISUALSTUDIO&logoColor=white"/>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5)

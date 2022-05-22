@@ -14,5 +14,8 @@
 <p align=center>
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/INTELLIJ-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
+<p>
+<p align=center>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=C++&logoColor=white"/>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5)

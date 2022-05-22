@@ -14,6 +14,15 @@
 <p align=center>
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
   <a href="https://github.com/Eungyeol41"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  <a href="https://github.com/Eungyeol41"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  <a href="https://github.com/Eungyeol41"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  <a href="https://github.com/Eungyeol41"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
 </p>
+  
+  <div style="display: flex; align-items: flex-start;">
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="67" height="67" />
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="67" height="67" />
+    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="67" height="67" />
+    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="67" height="67" /></div>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5)

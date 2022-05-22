@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20DreamCoffee%20%20&height=200&fontSize=90&fontColor=ffffff)
 
 <div align=center>
-  ### KNU 21 정주원
+  KNU 21 정주원
 </div>
 
 <div align=center>

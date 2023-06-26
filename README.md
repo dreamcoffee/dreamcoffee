@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"> 
 
 ### 📂FollowMe
-<img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white"> 
+<a href="https://velog.io/@dreamcoffee"><img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white"></a>
 
 <hr>
 

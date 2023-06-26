@@ -1,7 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20DreamCoffee%20%20&height=200&fontSize=90&fontColor=ffffff)
-
-# 소개
-- 안녕하세요 웹과 데이터베이스를 즐겨하는 정주원입니다.
+![header](https://capsule-render.vercel.app/api?type=soft&color=7F7FD5&text=%20DreamCoffee%20%20&height=200&fontSize=90&fontColor=ffffff)
+안녕하세요 웹과 데이터베이스를 즐겨하는 정주원입니다.
 
 
 <div align=center>
@@ -10,6 +8,8 @@
 </div>
 
 <br />
+
+
 
 <hr>
 
@@ -21,5 +21,3 @@
   <a href="https://github.com/dreamcoffee"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="67" height="67" />
   <a href="https://github.com/dreamcoffee"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="67" height="67" /></div>
 </p>
-
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5)

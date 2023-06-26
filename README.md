@@ -4,7 +4,8 @@
 
 # 안녕하세요 웹과 데이터베이스를 즐겨하는 정주원입니다.
 
-### 🔧Skils
+### 🔧Skills
+img src="https://img.shields.io/badge/javascript-007396?style=flat&logo=Java&logoColor=white" />
 
 
 <hr>

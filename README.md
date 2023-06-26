@@ -1,15 +1,9 @@
 <div align = center>
   
 ![header](https://capsule-render.vercel.app/api?type=Rect&color=gradient&text=Juwon%20Github%20%20&height=200&fontSize=90&fontColor=ffffff&animation=fadeIn&font=)
+
 # 안녕하세요 웹과 데이터베이스를 즐겨하는 정주원입니다.
 
-
-<div align=center>
-  <img style="height:200px;width:450px" src="https://github-profile-trophy.vercel.app/?username=dreamcoffee&margin-w=3&row=2&column=4">
-  <img style="height:250px;width:300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreamcoffee&layout=compact" />
-</div>
-
-<br />
 
 
 

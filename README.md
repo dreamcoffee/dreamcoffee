@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=Rect&color=gradient&text=Juwon%20Github%20%20&height=200&fontSize=90&fontColor=ffffff&animation=fadeIn&font=)
+<div>
+  ![header](https://capsule-render.vercel.app/api?type=Rect&color=gradient&text=Juwon%20Github%20%20&height=200&fontSize=90&fontColor=ffffff&animation=fadeIn&font=)
 # 안녕하세요 웹과 데이터베이스를 즐겨하는 정주원입니다.
 
 
@@ -21,3 +22,4 @@
   <a href="https://github.com/dreamcoffee"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="67" height="67" />
   <a href="https://github.com/dreamcoffee"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="67" height="67" /></div>
 </p>
+</div>

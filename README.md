@@ -2,7 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=Rect&color=gradient&text=Juwon%20Github%20%20&height=200&fontSize=90&fontColor=ffffff&animation=fadeIn&font=)
 
-# 안녕하세요 웹과 데이터베이스를 즐겨하는 정주원입니다.
+# 안녕하세요 정주원입니다.
 
 ### 📗Language
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"> 

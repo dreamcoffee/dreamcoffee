@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=7F7FD5&text=Juwon%20Github%20%20&height=200&fontSize=90&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Rect&color=7F7FD5&text=Juwon%20Github%20%20&height=200&fontSize=90&fontColor=ffffff&animation=fadeIn)
 안녕하세요 웹과 데이터베이스를 즐겨하는 정주원입니다.
 
 

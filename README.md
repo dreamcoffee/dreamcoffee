@@ -1,6 +1,6 @@
 <div align = center>
   
-![header](https://capsule-render.vercel.app/api?type=Rect&color=gradient&text=Juwon%20Github%20%20&height=200&fontSize=90&fontColor=ffffff&animation=fadeIn&font=)
+![header](https://capsule-render.vercel.app/api?type=Rect&color=gradient&text=Juwon's%20Github%20%20&height=200&fontSize=90&fontColor=ffffff&animation=fadeIn&font=)
 
 # Hello World!
 

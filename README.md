@@ -14,6 +14,7 @@
 ### 🔧Learning & Skils
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
 
 ### 📂FollowMe
 <a href="https://velog.io/@dreamcoffee"><img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white"></a>

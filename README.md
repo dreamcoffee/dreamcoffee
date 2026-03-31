@@ -21,8 +21,5 @@
 
 <hr>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=filocd05155)](https://solved.ac/filocd05155)
-
-<img src="https://github-readme-stats.vercel.app/api?username=dreamcoffee&show_icons=true&theme=merko">
 
 </div>
